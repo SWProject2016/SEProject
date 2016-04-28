@@ -22,6 +22,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class MainActivity extends Activity {
+    //测试
     AutoCompleteTextView cardNumAuto;
     EditText passwordET;
     Button logBT;
